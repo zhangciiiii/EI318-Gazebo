@@ -9,6 +9,9 @@ roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/usr/share/gazebo7
 roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/home/mustar/catkin_ws/src/turtlebot_custom_gazebo_worlds/tutorial.world
 ```
 
+```
+roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/home/mustar/Desktop
+```
 ## 打开gazebo：
 ```
 gazebo

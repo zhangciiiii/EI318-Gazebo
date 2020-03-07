@@ -16,3 +16,8 @@ roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/home/mustar/Deskt
 ```
 gazebo
 ```
+
+## 作业1的world
+```
+roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/home/mustar/Desktop/robot/EPTI/homework1/HW1world.world
+```

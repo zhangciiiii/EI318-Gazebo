@@ -1,25 +1,5 @@
 # 作业二：SLAM导航
 
-## 加载仿真机器人平台
-
-
-修改环境遍变量
-
-```
-TURTLEBOT_3D_SENSOR=AstraHokuyo
-```
-
-验证环境变量
-
-```
-echo $TURTLEBOT_3D_SENSOR
-```
-
-同一终端下运行，打开机器人
-
-```
-roslaunch robot_hokuyo_astra my_world_hk.launch
-```
 
 ## 启动建图程序
 打开新的终端，修改环境遍变量
